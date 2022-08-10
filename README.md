@@ -6,6 +6,7 @@ Projeto de controle financeiro.
 ## Rodar o projeto.
 
 Para iniciar o projeto rode o comando <strong>`yarn install`</strong> no terminal
+<br/>
 Em seguida <strong>`yarn start`</strong> para iniciar o projeto.
 projeto roda em http://localhost:3000/
 <br/>
